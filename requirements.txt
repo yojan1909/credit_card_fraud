@@ -4,7 +4,3 @@ streamlit
 pandas
 numpy
 joblib
-os
-matplotlib
-seaborn
-sklearn
